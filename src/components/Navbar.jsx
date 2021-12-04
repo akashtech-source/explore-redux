@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav className="nav-bar">
       <Link to="/">
-        <h2>Online shop</h2>
+        <h2>Redux Explore</h2>
       </Link>
       <Link to="/cart">
         <div className="nav-bag">
